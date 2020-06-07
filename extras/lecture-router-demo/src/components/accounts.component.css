@@ -1,0 +1,10 @@
+#accounts-header{
+    background-color: var(--dark);
+    color: white;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+#accounts-header > button{
+    font-size: 0.5rem;
+}

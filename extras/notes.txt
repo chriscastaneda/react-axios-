@@ -1,0 +1,8 @@
+Note:
+Added CORS to ccastanda p0 repo for demo.
+1. npm start p0 for localhost:3000
+2. npm start lecture-router-demo for localhost:3001
+
+Convert date entry: 3:44:17, 4:12:00
+
+4:25:41
