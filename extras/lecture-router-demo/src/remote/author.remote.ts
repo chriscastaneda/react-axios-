@@ -7,3 +7,9 @@ export const getAllAuthors = async ()=> {
         return author;
     })
 };
+
+//Request for submit button
+export const creatAuthor = async(author: Author) => {
+    const response = await InternalAxios.post('/authors', author); 
+    return true; //response
+}
